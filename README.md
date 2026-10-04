@@ -12,13 +12,13 @@ I build websites, web applications and AI assistants that turn ideas into useful
 
 ## How I can help
 
-- Business websites, portfolios and landing pages
+- Business websites, custom WordPress themes, portfolios and landing pages
 - React interfaces and applications with Node.js backends
 - Multilingual websites in French, Portuguese and English
 - AI assistants and bots: prompts, chat interfaces and API integration
 - Bug fixes, performance and technical SEO
 
-**Technologies:** HTML · CSS / Sass · JavaScript · TypeScript · React · Redux · Node.js · Express · MongoDB · Firebase · Git  
+**Technologies:** HTML · CSS / Sass · JavaScript · TypeScript · React · Redux · Node.js · Express · MongoDB · Firebase · WordPress · PHP · Git  
 **Also explored through projects:** Python · FastAPI · SQLite · Socket.IO · AI and payment integrations
 
 ## AI bots & assistants
@@ -29,6 +29,7 @@ I have built a portfolio chat assistant and AI reply workflows for ReviewBoost A
 
 | Project | What it demonstrates | Explore |
 | --- | --- | --- |
+| **Maison Aube — WordPress** | Premium bakery concept with a custom WordPress theme, responsive design, editable content and an interactive menu | [Code](https://github.com/sarabranco92/maison-aube-wordpress) · [Demo](https://sarabranco.xyz/projects/maison-aube/) |
 | **ReviewBoost AI** | Review collection, business dashboards and AI reply workflows; React/TypeScript, Express, MongoDB and Firebase | [Demo](https://reviewboostai.netlify.app/) |
 | **Book-Lovers** | Book discovery, shelves, reviews and real-time messaging; React, Express, MongoDB and Socket.IO | [Demo](https://booklovercommunity.netlify.app/) |
 | **QR Feedback** | A focused feedback MVP with FastAPI, SQLite, administration and CSV export | [Code](https://github.com/sarabranco92/qr-feedback) |

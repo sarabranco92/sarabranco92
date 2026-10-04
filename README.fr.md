@@ -12,13 +12,13 @@ Je crée des sites web, des applications et des assistants IA pour transformer u
 
 ## Ce que je peux apporter
 
-- Sites vitrines, portfolios et landing pages
+- Sites vitrines, thèmes WordPress sur mesure, portfolios et landing pages
 - Interfaces React et applications avec backend Node.js
 - Sites multilingues en français, portugais et anglais
 - Assistants et bots IA : prompts, interfaces de chat et intégration d’API
 - Correction de bugs, performance et SEO technique
 
-**Technologies:** HTML · CSS / Sass · JavaScript · TypeScript · React · Redux · Node.js · Express · MongoDB · Firebase · Git  
+**Technologies:** HTML · CSS / Sass · JavaScript · TypeScript · React · Redux · Node.js · Express · MongoDB · Firebase · WordPress · PHP · Git  
 **Également explorés dans mes projets:** Python · FastAPI · SQLite · Socket.IO · intégrations IA et paiement
 
 ## Bots & assistants IA
@@ -29,6 +29,7 @@ J’ai développé un assistant de portfolio et des fonctionnalités de réponse
 
 | Projet | Ce qu’il démontre | Découvrir |
 | --- | --- | --- |
+| **Maison Aube — WordPress** | Concept de boulangerie avec thème WordPress sur mesure, design responsive, contenus modifiables et carte interactive | [Code](https://github.com/sarabranco92/maison-aube-wordpress) · [Démo](https://sarabranco.xyz/projects/maison-aube/) |
 | **ReviewBoost AI** | Collecte d’avis, tableaux de bord et réponses assistées par IA ; React/TypeScript, Express, MongoDB et Firebase | [Démo](https://reviewboostai.netlify.app/) |
 | **Book-Lovers** | Découverte de livres, bibliothèques personnelles, avis et messagerie en temps réel ; React, Express, MongoDB et Socket.IO | [Démo](https://booklovercommunity.netlify.app/) |
 | **QR Feedback** | MVP de collecte de retours avec FastAPI, SQLite, administration et export CSV | [Code](https://github.com/sarabranco92/qr-feedback) |
